@@ -1138,20 +1138,20 @@ removeDuplicates([1, 2, 2, 3, 4, 4]);`}],_6=[{id:1,title:"#1. Reverse a String w
  Input: 'Hello' 
 
  Output: 'olleH' `,starterCode:`function reverseString(str) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- reverseString('hello');`},{id:2,title:"#2. Reverse a String using inbuild function of javascript",description:`Write a function to reverse string with using inbuild function javascript.
+ console.log(reverseString('hello'));`},{id:2,title:"#2. Reverse a String using inbuild function of javascript",description:`Write a function to reverse string with using inbuild function javascript.
 
  for Example:
 
  Input: 'Hello' 
 
  Output: 'olleH' `,starterCode:`function reverseString(str) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- reverseString('hello');`},{id:3,title:"#3. Check Palindrome without using inbuild function.",description:`Write a function to check if a string is a palindrome without using any inbuild function in JavaScript.
+ console.log(reverseString('hello'));`},{id:3,title:"#3. Check Palindrome without using inbuild function.",description:`Write a function to check if a string is a palindrome without using any inbuild function in JavaScript.
 
  A palindrome is a word that reads the same backward as forward.
 
@@ -1164,10 +1164,10 @@ removeDuplicates([1, 2, 2, 3, 4, 4]);`}],_6=[{id:1,title:"#1. Reverse a String w
  Input: 'hello'
 
  Output: false`,starterCode:`function isPalindrome(str) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- isPalindrome('madam');`},{id:4,title:"#4. Check Palindrome using inbuild function.",description:`Write a function to check if a string is a palindrome using JavaScript inbuild functions.
+ console.log(isPalindrome('madam'));`},{id:4,title:"#4. Check Palindrome using inbuild function.",description:`Write a function to check if a string is a palindrome using JavaScript inbuild functions.
 
  A palindrome is a word that reads the same backward as forward.
 
@@ -1180,10 +1180,10 @@ removeDuplicates([1, 2, 2, 3, 4, 4]);`}],_6=[{id:1,title:"#1. Reverse a String w
  Input: 'hello'
 
  Output: false`,starterCode:`function isPalindrome(str) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- isPalindrome('madam');`},{id:5,title:"#5. Find the Factorial of a Number.",description:`Write a function to find the factorial of a given number.
+ console.log(isPalindrome('madam'));`},{id:5,title:"#5. Find the Factorial of a Number.",description:`Write a function to find the factorial of a given number.
 
  The factorial of a non-negative integer \`n\` is the product of all positive integers less than or equal to \`n\`.
 
@@ -1196,37 +1196,37 @@ removeDuplicates([1, 2, 2, 3, 4, 4]);`}],_6=[{id:1,title:"#1. Reverse a String w
  Input: 0
 
  Output: 1 (by definition, factorial of 0 is 1)`,starterCode:`function findFactorial(n) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- findFactorial(5);`},{id:6,title:"#6. Find the Largest Number in an Array without using inbuild function.",description:`Write a function to find the largest number in an array without using any inbuild functions like Math.max().
+ console.log(findFactorial(5));`},{id:6,title:"#6. Find the Largest Number in an Array without using inbuild function.",description:`Write a function to find the largest number in an array without using any inbuild functions like Math.max().
 
  For Example:
 
  Input: [3, 7, 2, 9, 4]
 
  Output: 9`,starterCode:`function findLargestNumber(arr) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- findLargestNumber([3, 7, 2, 9, 4]);`},{id:7,title:"#7. Find the Largest Number in an Array using inbuild function.",description:`Write a function to find the largest number in an array using inbuild functions like Math.max().
+ console.log(findLargestNumber([3, 7, 2, 9, 4]));`},{id:7,title:"#7. Find the Largest Number in an Array using inbuild function.",description:`Write a function to find the largest number in an array using inbuild functions like Math.max().
 
  For Example:
 
  Input: [3, 7, 2, 9, 4]
 
  Output: 9`,starterCode:`function findLargestNumber(arr) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- findLargestNumber([3, 7, 2, 9, 4]);`},{id:8,title:"#8. Remove Duplicates from Array without using inbuild function.",description:`Write a function to remove duplicate values from an array without using any inbuild functions like Set, filter, etc.
+ console.log(findLargestNumber([3, 7, 2, 9, 4]));`},{id:8,title:"#8. Remove Duplicates from Array without using inbuild function.",description:`Write a function to remove duplicate values from an array without using any inbuild functions like Set, filter, etc.
 
  For Example:
 
  Input: [1, 2, 2, 3, 4, 4, 5]
 
  Output: [1, 2, 3, 4, 5]`,starterCode:`function removeDuplicates(arr) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
  console.log(removeDuplicates([1, 2, 2, 3, 4, 4, 5]));`},{id:9,title:"#9. Remove Duplicates from Array using inbuild function.",description:`Write a function to remove duplicate values from an array using inbuild functions like Set or filter.
@@ -1236,7 +1236,7 @@ removeDuplicates([1, 2, 2, 3, 4, 4]);`}],_6=[{id:1,title:"#1. Reverse a String w
  Input: [1, 2, 2, 3, 4, 4, 5]
 
  Output: [1, 2, 3, 4, 5]`,starterCode:`function removeDuplicates(arr) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
  console.log(removeDuplicates([1, 2, 2, 3, 4, 4, 5]));`},{id:10,title:"#10. Check if two strings are anagrams without using inbuild function.",description:`Write a function to check whether two strings are anagrams without using inbuild JavaScript functions.
@@ -1255,15 +1255,15 @@ removeDuplicates([1, 2, 2, 3, 4, 4]);`}],_6=[{id:1,title:"#1. Reverse a String w
  Input: 'hello', 'world'
 
  Output: false`,starterCode:`function isAnagram(str1, str2) {
-  // Hey coader, write your code from here. 
+  // Hey coder, write your code from here. 
 }
 
- isAnagram('listen', 'silent');`}],z6=[{id:1,title:"#12. Create and Use a Promise in JavaScript.",description:"Write a function that returns a Promise which resolves after 2 seconds with the message 'Promise resolved!'. Then, use `.then()` `catch` and `finally` to log the resolved message.\n\nFor Example:\n\nExpected Output (after 2 seconds):\n\n'Promise resolved!'",starterCode:`function createDelayedPromise() {
-  // Hey coader, write your code from here.
+ console.log(isAnagram('listen', 'silent'));`}],z6=[{id:1,title:"#12. Create and Use a Promise in JavaScript.",description:"Write a function that returns a Promise which resolves after 2 seconds with the message 'Promise resolved!'. Then, use `.then()` `catch` and `finally` to log the resolved message.\n\nFor Example:\n\nExpected Output (after 2 seconds):\n\n'Promise resolved!'",starterCode:`function createDelayedPromise() {
+  // Hey coder, write your code from here.
 }
 
 // Call the function and handle the resolved value.
-createDelayedPromise() 
+ console.log(createDelayedPromise()); 
  //You have to write (then catch and finally).;`},{id:2,title:"#13. Demonstrate Shallow Copy vs Deep Copy in JavaScript.",description:`Write a function to demonstrate the difference between shallow copy and deep copy in JavaScript using a nested object.
 
 👉 In shallow copy, changes to nested properties affect the original object.
@@ -1282,7 +1282,7 @@ Expected Output:
 original.address.city → 'Mumbai' ❌
 
 // After modifying the deep copy:
-original.address.city → 'Delhi' ✅`,starterCode:`// Hey coader, write your code from here.
+original.address.city → 'Delhi' ✅`,starterCode:`// Hey coder, write your code from here.
 
 const original = {
   name: 'Nitish',
